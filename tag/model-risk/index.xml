@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Risk | Mante ZB</title>
+    <link>https://mantezb.github.io/tag/model-risk/</link>
+      <atom:link href="https://mantezb.github.io/tag/model-risk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Model Risk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 12:03:42 +0100</lastBuildDate>
+    <image>
+      <url>https://mantezb.github.io/images/icon_hudae792f3b879e42f4c9c734a99b5c2b2_64157_512x512_fill_lanczos_center_3.png</url>
+      <title>Model Risk</title>
+      <link>https://mantezb.github.io/tag/model-risk/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Backtesting for Counterparty Risk Models</title>
+      <link>https://mantezb.github.io/publication/bbt/</link>
+      <pubDate>Thu, 11 Feb 2021 12:03:42 +0100</pubDate>
+      <guid>https://mantezb.github.io/publication/bbt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

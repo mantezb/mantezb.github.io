@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mante ZB</title>
+    <link>https://mantezb.github.io/</link>
+      <atom:link href="https://mantezb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mante ZB</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 12:03:42 +0100</lastBuildDate>
+    <image>
+      <url>https://mantezb.github.io/images/icon_hudae792f3b879e42f4c9c734a99b5c2b2_64157_512x512_fill_lanczos_center_3.png</url>
+      <title>Mante ZB</title>
+      <link>https://mantezb.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Backtesting for Counterparty Risk Models</title>
+      <link>https://mantezb.github.io/publication/bbt/</link>
+      <pubDate>Thu, 11 Feb 2021 12:03:42 +0100</pubDate>
+      <guid>https://mantezb.github.io/publication/bbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonparametrics for Causal Inference</title>
+      <link>https://mantezb.github.io/project/sparsebcf/</link>
+      <pubDate>Wed, 11 Nov 2020 01:37:02 +0100</pubDate>
+      <guid>https://mantezb.github.io/project/sparsebcf/</guid>
+      <description>&lt;p&gt;This project&amp;rsquo;s focus is on the use of Bayesian Nonparametric regression models for individual/heterogeneous treatment effects estimation and policy evaluation. In particular, the interest is in Bayesian Regression Trees methods (Bayesian Additive Regression Trees - BART), and their causal version, Bayesian Causal Forests.&lt;/p&gt;
+&lt;p&gt;The aim is to develop and extend current methodologies, such as Bayesian Causal Forests, for the estimation of heterogeneous treatment effects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal Machine Learning</title>
+      <link>https://mantezb.github.io/project/causalml/</link>
+      <pubDate>Wed, 11 Nov 2020 01:11:07 +0100</pubDate>
+      <guid>https://mantezb.github.io/project/causalml/</guid>
+      <description>&lt;p&gt;In the recent years, there has been a surging interest in the use of Statistical/Machine Learning (ML) tools for causal inference. These tools can leverage large datasets and usually deliver excellent predictive performance. However they need to be properly adjusted to be used in causal settings (e.g. to account for confounding bias).&lt;/p&gt;
+&lt;p&gt;The broad idea of this project is to design and develop Causal ML methods for estimating individual treatment effects, and for policy evaluation/optimization (Reinforcement Learning), with observational data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Bayesian Additive Regression Trees</title>
+      <link>https://mantezb.github.io/talk/bartintro/</link>
+      <pubDate>Thu, 16 Apr 2020 13:00:00 +0100</pubDate>
+      <guid>https://mantezb.github.io/talk/bartintro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://mantezb.github.io/software/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mantezb.github.io/software/</guid>
+      <description>&lt;p&gt;[[main]]
+name = &amp;ldquo;Software&amp;rdquo;
+url = &amp;ldquo;#software&amp;rdquo;
+weight = 20&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

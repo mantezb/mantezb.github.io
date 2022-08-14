@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Mante ZB</title>
+    <link>https://mantezb.github.io/talk/</link>
+      <atom:link href="https://mantezb.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 13:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mantezb.github.io/images/icon_hudae792f3b879e42f4c9c734a99b5c2b2_64157_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mantezb.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Bayesian Additive Regression Trees</title>
+      <link>https://mantezb.github.io/talk/bartintro/</link>
+      <pubDate>Thu, 16 Apr 2020 13:00:00 +0100</pubDate>
+      <guid>https://mantezb.github.io/talk/bartintro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
